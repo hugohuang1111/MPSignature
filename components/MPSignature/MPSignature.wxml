@@ -1,0 +1,8 @@
+<view style="width:100%; height:100%;">
+  <canvas id="mp-signature-board" type="2d"
+    style="width:100%; height:100%;"
+    bindtouchstart="onCanvasTouchStart"
+    bindtouchmove="onCanvasTouchMove"
+    bindtouchend="onCanvasTouchEnd">
+  </canvas>
+</view>

@@ -1,0 +1,6 @@
+{
+  "pageOrientation": "landscape",
+  "usingComponents": {
+    "mp-signature": "../../components/MPSignature/MPSignature"
+  }
+}

@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="mpsignature-container">
+  <mp-signature id="mpSignatureComp"
+    backgroundColor="#EEE"
+    fillStyle="#111"
+    clipping="{{true}}" />
+  <view class="operations">
+    <view class="operation-btn operation-btn-clear" bindtap="onTapClear">
+      <text>重写</text>
+    </view>
+    <view class="operation-btn operation-btn-ok" bindtap="onTapOK">
+      <text>确定</text>
+    </view>
+  </view>
+</view>
