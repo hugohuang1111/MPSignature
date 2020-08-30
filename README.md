@@ -2,7 +2,7 @@
 
 最近在研究在微信小程序上实现签名这一功能, 最终效果图:
 
-![](https://github.com/hugohuang1111/MPSignature/raw/master/doc/signature.jpg)
+![](./doc/signature.jpg)
 
 ## 介绍
 
